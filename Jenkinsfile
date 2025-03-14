@@ -4,6 +4,7 @@ pipeline{
         credentialsIdGCP = "lbg-mea-leaders-c26-8102a42fdc0d"
         namespace = "lbg-4"
         // e.g. lbg-1 for learner1, lbg-2 for learner2
+        // comment 
         projectId= "lbg-mea-leaders-c26"
         
         imageName = "vatcalc"
